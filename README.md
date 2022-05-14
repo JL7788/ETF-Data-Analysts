@@ -17,7 +17,7 @@ Before running the application first import:<br />
 -sqlalchemy<br />
 
 
-<br />
+
 ## Findings/Analysis 
 I started by making the connection to the database and creating the engine. Once this was completed. I queried all of the columns from paypal and created an interactive plot with the daily returns column. This was repeated for the cumulative returns as well. <br />
 
@@ -33,7 +33,7 @@ Next I joined multiple columns together and averaged all the daily returns into 
 Jeffrey Liu : Dev
 UCB Fintech - Provided initial resources
 
-<br />
+
 ## License
 Trilogy Technology 
 UCB Fintech Extension Program
